@@ -39,6 +39,13 @@ A Spotify Clone built with **React.js** and **Tailwind CSS** featuring a respons
    ```
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+## 📸 Screenshots
+### Home Page
+![Home Screenshot](./assets/HomepageSS.jpg)
+
+### Album Section
+![Album Screenshot](./assets/AlbumSS.jpg)
+
 ## 🔮 Future Enhancements
 
 * Integrate with **Spotify Web API** for real music data
