@@ -41,10 +41,10 @@ A Spotify Clone built with **React.js** and **Tailwind CSS** featuring a respons
 
 ## 📸 Screenshots
 ### Home Page
-![Home Screenshot](./assets/HomepageSS.jpg)
+![Home Screenshot](./src/assets/HomepageSS.jpg)
 
 ### Album Section
-![Album Screenshot](./assets/AlbumSS.jpg)
+![Album Screenshot](./src/assets/AlbumSS.jpg)
 
 ## 🔮 Future Enhancements
 
